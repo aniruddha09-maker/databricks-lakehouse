@@ -69,9 +69,7 @@ Databricks-Lakehouse/
 ├── Silver/
 ├── Gold/
 ├── datasets/
-├── README.md
-├── LICENSE
-└── .gitignore
+└── README.md
 ```
 
 ---
